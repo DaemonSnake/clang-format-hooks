@@ -3,4 +3,4 @@
   description: "clang-format"
   entry: git-pre-commit-format
   language: script
-  types: [text]
+  types: [file]
