@@ -1,6 +1,6 @@
 - id: clang-format-hooks
   name: clang-format-hooks
   description: "clang-format"
-  entry: git-pre-commit-format
+  entry: apply-format
   language: script
   types: [file]
